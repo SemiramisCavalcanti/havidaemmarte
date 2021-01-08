@@ -21,6 +21,23 @@
             <h1>HunterxHunter</h1>
             <p class="text-justify"> Hunter × Hunter é uma série de mangá escrita e ilustrada por Yoshihiro Togashi. Os capítulos são serializados na revista Weekly Shōnen Jump desde 3 de março de 1998, onde são compilados e publicados em formato tankobon pela editora Shueisha, embora o mangá tenha frequentemente entrado em hiato desde 2006.
             </p></div>
+        
+        <div class="col">
+            <h1>HunterxHunter</h1>
+            <p class="text-justify"> Hunter × Hunter é uma série de mangá escrita e ilustrada por Yoshihiro Togashi. Os capítulos são serializados na revista Weekly Shōnen Jump desde 3 de março de 1998, onde são compilados e publicados em formato tankobon pela editora Shueisha, embora o mangá tenha frequentemente entrado em hiato desde 2006.
+            </p></div>
+        
+        <div class="col">
+            <h1>HunterxHunter</h1>
+            <p class="text-justify"> Hunter × Hunter é uma série de mangá escrita e ilustrada por Yoshihiro Togashi. Os capítulos são serializados na revista Weekly Shōnen Jump desde 3 de março de 1998, onde são compilados e publicados em formato tankobon pela editora Shueisha, embora o mangá tenha frequentemente entrado em hiato desde 2006.
+            </p></div>
+        <div class="col">
+            <h1>HunterxHunter</h1>
+            <p class="text-justify"> Hunter × Hunter é uma série de mangá escrita e ilustrada por Yoshihiro Togashi. Os capítulos são serializados na revista Weekly Shōnen Jump desde 3 de março de 1998, onde são compilados e publicados em formato tankobon pela editora Shueisha, embora o mangá tenha frequentemente entrado em hiato desde 2006.
+            </p></div>
+        
+           
+        
     </div>
 
     <!--IMAGES OF THE SECOND LINE-->
